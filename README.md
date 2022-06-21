@@ -11,3 +11,5 @@ Please feel free to check out my personal website: https://lt77777.github.io/, m
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lt77777&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt77777&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lt77777&show_icons=true&theme=dark&count_private=true)
