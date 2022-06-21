@@ -16,4 +16,4 @@ Please feel free to check out my personal website: https://lt77777.github.io/, m
 
 <!-- ![Lawrence's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lt77777&show_icons=true&theme=dark&count_private=true) -->
 
-<!-- [![Lawrence's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lt77777)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Lawrence's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lt77777)](https://github.com/anuraghazra/github-readme-stats)
