@@ -7,3 +7,7 @@ I’m currently working at Promise Robotics developing software (Python, Django,
 Having such broad interests and passion has allowed me to build valuable problem-solving and learning skills that gives me the ability to pick up new concepts with ease. People also are the backbone of my happiness in life thus I am always interested to have a chat anytime. :)
 
 Please feel free to check out my personal website: https://lt77777.github.io/, my projects below, and my resume/cover letter. 
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Lt77777
