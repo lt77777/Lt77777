@@ -15,8 +15,8 @@ Please feel free to check out my personal website: https://lt77777.github.io/, m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt77777&count_private=true&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lt77777&repo=Resume-Cover-Letter&theme=dark)](https://github.com/lt77777/Resume-Cover-Letter)
 
 <!-- ![Lawrence's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Lt77777&show_icons=true&theme=dark&count_private=true) -->
-
+<!-- 
 [![Lawrence's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lt77777&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lt77777&repo=Lt77777.github.io&theme=dark)](https://github.com/lt77777/Lt77777.github.io) -->
 
