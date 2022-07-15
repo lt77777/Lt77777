@@ -20,4 +20,4 @@ Please feel free to check out my personal website: https://lt77777.github.io/, m
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lt77777&repo=Lt77777.github.io&theme=dark)](https://github.com/lt77777/Lt77777.github.io) -->
 
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/lt77777/Resume-Cover-Letter)
