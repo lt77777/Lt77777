@@ -23,4 +23,4 @@ Please feel free to check out my personal website: https://lt77777.github.io/, m
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Lt77777)
