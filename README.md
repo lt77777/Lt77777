@@ -8,7 +8,7 @@ I’m currently working at Promise Robotics developing software (Python, Django,
 
 Having such broad interests and passion has allowed me to build valuable problem-solving and learning skills that gives me the ability to pick up new concepts with ease. People also are the backbone of my happiness in life thus I am always interested to have a chat anytime. :)
 
-Again, feel free to check out my websites: https://lawrencetsai.me/, along with my projects below, and my resume/cover letter. 
+Again, feel free to check out my website: https://lawrencetsai.me/, along with my projects below, and my resume/cover letter. 
 <!-- ### :fire: My Stats : -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lt77777&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt77777&count_private=true&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lt77777&repo=Resume-Cover-Letter&theme=dark)](https://github.com/lt77777/Resume-Cover-Letter) ![Jokes Card](https://readme-jokes.vercel.app/api)
