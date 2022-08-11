@@ -13,9 +13,7 @@ Again, feel free to check out my website: https://lawrencetsai.me/, along with m
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lt77777&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt77777&count_private=true&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lt77777&repo=Resume-Cover-Letter&theme=dark)](https://github.com/lt77777/Resume-Cover-Letter) ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Lt77777)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lawtsai/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Lt77777) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lawtsai/)
 
 <!-- Total time coded since Jun 21 2022 : <a href="https://wakatime.com/@746042ff-978a-4839-aff8-0e93dd03d191"><img src="https://wakatime.com/badge/user/746042ff-978a-4839-aff8-0e93dd03d191.svg" alt="Total time coded since Jun 21 2022" /></a> -->
 
