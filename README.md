@@ -23,4 +23,5 @@ Again, feel free to check out my website: https://lawrencetsai.me/, along with m
 
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/lt77777/Resume-Cover-Letter)
  -->
- <codersrank-summary username="Lt77777"></codersrank-summary>
+ 
+ <codersrank-summary username="lt77777"></codersrank-summary>
