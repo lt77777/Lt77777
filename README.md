@@ -15,6 +15,7 @@ Again, feel free to check out my website: https://lawrencetsai.me/, along with m
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Lt77777)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lawtsai/)
 
 <!-- Total time coded since Jun 21 2022 : <a href="https://wakatime.com/@746042ff-978a-4839-aff8-0e93dd03d191"><img src="https://wakatime.com/badge/user/746042ff-978a-4839-aff8-0e93dd03d191.svg" alt="Total time coded since Jun 21 2022" /></a> -->
 
