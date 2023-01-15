@@ -11,7 +11,7 @@ Having such broad interests and passion has allowed me to build valuable problem
 Again, feel free to check out my website: https://lawrencetsai.me/, along with my projects below, and my resume/cover letter. 
 <!-- ### :fire: My Stats : -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lt77777&theme=dark&background=000000)](https://git.io/streak-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt77777&count_private=true&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lt77777&repo=Resume-Cover-Letter&theme=dark)](https://github.com/lt77777/Resume-Cover-Letter) ![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lt77777&count_private=true&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lt77777&repo=Resume-Cover-Letter&theme=dark)](https://github.com/lt77777/Resume-Cover-Letter) ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Lt77777) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lawtsai/)
 
