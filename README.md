@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lawrence (Larry) and I am a student at the University of Toronto majoring in Mathematics and Physics, with a minor in Computer Science. I am graduating in December 2023 and am looking for new grad SWE/Quant positions for January/February 2024. 
+My name is Lawrence (Larry) and I am a SWE at Capital One with an HBSc from the University of Toronto in Mathematics and Physics Majors with a minor in Computer Science. I am also currently an MCS candidate at UIUC.
 
 Feel free to check out my website: [https://lt77777.github.io/](https://lt77777.github.io/), along with my projects below, and my resume/cover letter. 
 <!-- ### :fire: My Stats : -->
