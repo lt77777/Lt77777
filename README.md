@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lawrence (Larry) and I am a Senior Associate SWE at Capital One with an HBSc from the University of Toronto in Mathematics and Physics Majors with a minor in Computer Science. I am also currently a 2nd Year MCS candidate at UIUC.
+My name is Lawrence (Larry) with an HBSc from the University of Toronto in Mathematics and Physics Majors with a minor in Computer Science. 
 
 Feel free to check out my website: [https://lt77777.github.io/](https://lt77777.github.io/), along with my projects below, and my resume/cover letter. 
 <!-- ### :fire: My Stats : -->
